@@ -24,5 +24,9 @@
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "mongoose": "^5.13.3"
+  },
+  "devDependencies": {
+    "apidoc": "^0.28.1",
+    "nodemon": "^2.0.12"
   }
 }
